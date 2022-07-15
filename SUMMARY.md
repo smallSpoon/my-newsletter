@@ -1,6 +1,7 @@
 # Table of contents
 
-* [一人周刊](README.md)
+* [Newsletter-vol.07](README.md)
+* [一人周刊](<README (1).md>)
   * [newsletter-vol.01](yi-ren-zhou-kan/newsletter-vol.01.md)
   * [newsletter-vol.02](yi-ren-zhou-kan/newsletter-vol.02.md)
   * [newsletter-vol.03](yi-ren-zhou-kan/newsletter-vol.03.md)
