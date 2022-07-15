@@ -7,5 +7,5 @@
   * [newsletter-vol.04](yi-ren-zhou-kan/newsletter-vol.04.md)
   * [newsletter-vol.05](yi-ren-zhou-kan/newsletter-vol.05.md)
   * [newsletter-vol.06](yi-ren-zhou-kan/newsletter-vol.06.md)
-* [吐槽笔记](tu-cao-bi-ji/README.md)
-  * [bl 二三事](tu-cao-bi-ji/bl-er-san-shi.md)
+* [工具安利](gong-ju-an-li/README.md)
+  * [插件](gong-ju-an-li/cha-jian.md)
