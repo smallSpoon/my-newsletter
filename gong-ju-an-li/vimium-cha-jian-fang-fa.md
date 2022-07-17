@@ -2,7 +2,7 @@
 
 通过一系列快捷键，来操作网页
 
-手腱膜炎又颜值严重了。开始想脱离鼠标。
+手腱膜炎严重了 想脱离鼠标。
 
 [https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
@@ -46,4 +46,4 @@ f/shift+F  显示当前页面快捷键&#x20;
 
 
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)

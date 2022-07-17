@@ -10,6 +10,5 @@
   * [Newsletter-vol.07](yi-ren-zhou-kan/newsletter-vol.07.md)
 * [工具安利](tu-cao-bi-ji/README.md)
   * [插件](tu-cao-bi-ji/bl-er-san-shi.md)
+  * [Vimium 插件方法](gong-ju-an-li/vimium-cha-jian-fang-fa.md)
   * [脚本](gong-ju-an-li/jiao-ben.md)
-* [Vimium 插件方法](page-2.md)
-* [Page 2](page-2-1.md)
