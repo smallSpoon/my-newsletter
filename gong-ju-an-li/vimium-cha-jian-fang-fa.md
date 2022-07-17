@@ -8,6 +8,8 @@
 
 \[参考文档]\([https://sspai.com/post/27723](https://sspai.com/post/27723)）
 
+&#x20;shift+?  显示快捷键
+
 h、l、k和j分别实现左、右、上和下
 
 j,:向下滚动页面
