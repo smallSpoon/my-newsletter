@@ -1,4 +1,4 @@
-# Vimium 插件方法
+# Page 2
 
 可视模式下（有效启动状态
 
@@ -25,5 +25,3 @@ r:重新加载页面(刷新页面(f5
 yy:[复制](https://xiaoheidiannao.com/articles/Copy.html)当前页面地址到[剪贴板](https://xiaoheidiannao.com/articles/Clipboard.html)
 
 gi:定位到页面中的第一个输入框,&#x20;
-
-![](.gitbook/assets/image.png)
