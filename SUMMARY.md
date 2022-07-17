@@ -11,5 +11,5 @@
 * [工具安利](tu-cao-bi-ji/README.md)
   * [插件](tu-cao-bi-ji/bl-er-san-shi.md)
   * [脚本](gong-ju-an-li/jiao-ben.md)
+* [Vimium 插件方法](vimium-cha-jian-fang-fa.md)
 * [Page 2](page-2.md)
-* [Page 2](page-2-1.md)
