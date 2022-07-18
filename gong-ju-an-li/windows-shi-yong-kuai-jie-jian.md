@@ -48,3 +48,24 @@ shift+ctrl+delete   清楚浏览器记录
 
 
 
+**查询局域网内设备IP**&#x20;
+
+win+r 输入cmd回车，在弹出的命令提示窗口输入ipconfig/all回车
+
+
+
+**清理类**
+
+我不会选择 CCleaner 这玩意早就变质了。请尝试以下方式清理系统。
+
+**Win + R → %temp% → Ctrl + A → Delete**
+
+****
+
+**清理qq/微信**
+
+微信文件的路径在 `文档 > WeChat Files > [你的微信id] > FileStorage` 下，其中 `File` 是文件，`Image` 是图片，`Video` 是视频。
+
+QQ的文件路径在 `文档 > Tencent Files > [你的QQ号]` 下，其中图片和视频文件夹的内容与微信相同，`FileRecv` 是文件。
+
+&#x20;
