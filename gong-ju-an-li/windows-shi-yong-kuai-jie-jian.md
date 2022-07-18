@@ -42,6 +42,8 @@ F5 刷新
 
 **Ctrl+Tab** 快速切换浏览器窗口
 
+**Ctrl+f4**  关掉浏览器窗口
+
 shift+ctrl+delete   清楚浏览器记录
 
 
