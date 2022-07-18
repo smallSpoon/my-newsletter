@@ -12,4 +12,4 @@
   * [插件](tu-cao-bi-ji/bl-er-san-shi.md)
   * [Vimium 插件方法](gong-ju-an-li/vimium-cha-jian-fang-fa.md)
   * [脚本](gong-ju-an-li/jiao-ben.md)
-  * [windows快捷键](gong-ju-an-li/windows-kuai-jie-jian.md)
+  * [windows快捷键](gong-ju-an-li/windows-shi-yong-kuai-jie-jian.md)

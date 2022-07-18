@@ -2,7 +2,7 @@
 description: 常用
 ---
 
-# windows使用快捷键
+# windows快捷键
 
 **Win键+←/→** 分屏
 
@@ -14,7 +14,7 @@ f2 修改命名
 
 F5 刷新
 
-win+e 打开文件管理器&#x20;
+win+e 打开我的电脑
 
 **Win+D 显示桌面**
 
