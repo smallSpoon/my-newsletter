@@ -13,3 +13,4 @@
   * [Vimium 插件方法](gong-ju-an-li/vimium-cha-jian-fang-fa.md)
   * [脚本](gong-ju-an-li/jiao-ben.md)
   * [windows快捷键](gong-ju-an-li/windows-shi-yong-kuai-jie-jian.md)
+  * [一些随记](gong-ju-an-li/yi-xie-sui-ji.md)
