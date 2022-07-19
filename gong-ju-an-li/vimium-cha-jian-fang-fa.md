@@ -48,4 +48,4 @@ f/shift+F  显示当前页面快捷键&#x20;
 
 
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
