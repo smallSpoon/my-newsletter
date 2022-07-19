@@ -1,4 +1,4 @@
-# 搜索技巧
+# 搜索與提問
 
 [https://xyproblem.info/](https://xyproblem.info/)
 
