@@ -10,7 +10,7 @@ description: 常用
 
 **Win键+←/→** 分屏
 
-**Win键+Tab 显示所有打开视图**
+**Win键+Tab 显示所有打开视图** &#x20;
 
 **Win+V** 剪切板
 
