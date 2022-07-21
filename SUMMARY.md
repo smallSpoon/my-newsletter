@@ -13,6 +13,6 @@
   * [脚本](gong-ju-an-li/jiao-ben.md)
   * [Vimium 插件方法](gong-ju-an-li/vimium-cha-jian-fang-fa.md)
   * [windows快捷键](gong-ju-an-li/windows-shi-yong-kuai-jie-jian.md)
-  * [沟通技巧](gong-ju/gou-tong-ji-qiao.md)
+  * [沟通与故事](gong-ju/gou-tong-yu-gu-shi.md)
   * [搜索與提問](gong-ju-an-li/sou-suo-yu-ti-wen.md)
   * [電腦小知識](gong-ju-an-li/dian-nao-xiao-zhi-shi.md)
