@@ -69,7 +69,7 @@
 
 2 组被采访对象 一对母女和一对父子
 
-* **多感官学习**方式听觉嗅觉触觉去触摸和感受和妈妈作为言行身教的力量
+* **多感官学习**方式 听觉嗅觉触觉 去触摸和感受 和妈妈作为言行身教的力量
 * 读写能力不是本能。
 
 小孩面对长期的无能 启动自我保护策略 父亲选择跟儿子表露对一事无成的恐惧 在儿子的问话中意识到 对啊 没有任何一位画家是通过考考级成功的 之所以成为著名画家都是超过标准的人。
@@ -81,7 +81,7 @@
 #### 推荐 2 个免费课程
 
 * 1.多邻国的粤语课程 和非常接地本土化的案例 (多邻国网页版或 app
-* 2.\[中国历史]著名的 2 位著名汉学教授授课 10 前都可以免费 分开注册主要是不想读大部头的中国通史书。本课程分[古代](https://courses.edx.org/courses/course-v1:HarvardX+SW12.1x+3T2021/dc35788ec2574d8da0f0557ecf51d0e6/)和[近现代](https://courses.edx.org/courses/course-v1:HarvardX+SW12.9x+3T2021/1b7ce40ba4f84cacb0db9a2278ca9961/) 10 专题 （edx chinax 系列
+* 2.\[中国历史]著名的 2 位著名汉学教授授课 10 前都可以免费 分开注册主要是不想读大部头的中国通史书。本课程分[古代](https://courses.edx.org/courses/course-v1:HarvardX+SW12.1x+3T2021/dc35788ec2574d8da0f0557ecf51d0e6/)和[近现代](https://courses.edx.org/courses/course-v1:HarvardX+SW12.9x+3T2021/1b7ce40ba4f84cacb0db9a2278ca9961/) 10 专题 （edx- chinax 系列
 
 #### 2 本分享书的书
 
@@ -93,13 +93,13 @@
 
 ​[ドット絵ダウンロードサイト DOTOWN|無料の素材サイト](https://dotown.maeda-design-room.net/) 任天堂的像素画无料素材
 
-​[LibreOffice 办公office 开源](https://www.libreoffice.org/) 替代 wpshe 和微软付费 ooffice
+​[LibreOffice 办公office 开源](https://www.libreoffice.org/) 替代 wps 和微软付费 office
 
 ​[TweetDeck](https://tweetdeck.twitter.com/) 被 Twitter 收购多列布局支持查看关注人的喜欢搜索 Twitter Likes (包括自己的 Likes 和别人的 Likes) 添加一个 column，选择 Likes，设置好 author，还可以用不同的关键词搜索 Likes 内容
 
 ### 🎧近期影视剧
 
-🎬[ 钢之炼金术师 FA 鋼の錬金術師 FULLMETAL ALCHEMIST (2009) ](https://movie.douban.com/subject/3430169/)不愧是经典。
+🎬[ 鋼の錬金術師 FULLMETAL ALCHEMIST (2009) ](https://movie.douban.com/subject/3430169/)不愧是经典。
 
 📺 [正義的算法 (2022)](https://movie.douban.com/subject/35633638/)是这样的 一直就盯着男主的颜值 女主的穿搭。83年咋还如此年轻帅气活力呢。
 
