@@ -1,4 +1,4 @@
-# Newsletter-vol.8
+# Newsletter-vol.08
 
 ### 本期言论 💌 <a href="#h" id="h"></a>
 

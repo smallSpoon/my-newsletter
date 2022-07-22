@@ -26,3 +26,4 @@
 | [Webtime Tracker](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk)                                                                                                             | 统计网页使用时间           |
 | [Relingo](https://microsoftedge.microsoft.com/addons/detail/relingo-master-words-fr/fhaefmiaghgdaciliiiflaoiknhibkmo)                                                                                                     | 网页自动标注单词意思         |
 | [AHA Music](https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)                                                                                                         | 找歌                 |
+|  [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)                                                                                                                                                  |  绕过付费墙             |
