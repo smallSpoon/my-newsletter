@@ -8,6 +8,7 @@
   * [newsletter-vol.05](yi-ren-zhou-kan/newsletter-vol.05.md)
   * [newsletter-vol.06](yi-ren-zhou-kan/newsletter-vol.06.md)
   * [Newsletter-vol.07](yi-ren-zhou-kan/newsletter-vol.07.md)
+* [Newsletter-vol.8](newsletter-vol.8.md)
 * [工具](tu-cao-bi-ji/README.md)
   * [插件](tu-cao-bi-ji/bl-er-san-shi.md)
   * [脚本](gong-ju-an-li/jiao-ben.md)
