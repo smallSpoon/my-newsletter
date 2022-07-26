@@ -6,7 +6,7 @@ description: 常用
 
 **“** 超过三个按键的快捷键不能叫快捷键 **”**
 
-****
+&#x20;win+s  搜索 如 [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7.2)， 打开终端
 
 **Win键+←/→** 分屏
 
