@@ -6,7 +6,7 @@ description: 常用
 
 **“** 超过三个按键的快捷键不能叫快捷键 **”**
 
-&#x20;win+s  搜索 如 [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7.2)， 打开终端
+**Win键**+s  搜索 如 [PowerShell](https://docs.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell?view=powershell-7.2)， 打开终端
 
 **Win键+←/→** 分屏
 
@@ -32,7 +32,7 @@ F5 刷新
 
 **Ctrl+Shift+F** 文字简繁体切换
 
-**Win+句号键** 打开系统自带表情符号
+**Win+。** 打开系统自带表情符号
 
 
 
